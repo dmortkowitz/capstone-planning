@@ -8,7 +8,6 @@ _By David Mortkowitz_
 
 ## Project MVP: 
 * Accept and store book submissions (title, author, number of pages, summary, completion goal date) 
-User account/authentication.
 * Simple User Interface for adding, updating, and deleting books
 * Updating reading progress
 
